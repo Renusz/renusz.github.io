@@ -1,2 +1,3 @@
-# courserawebdesign.github.io
+# renusz.github.io
+
 for the course
